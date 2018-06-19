@@ -19,7 +19,7 @@
 		//(trick, if you make this pin un-clickable > make the overColor and downColor the same)
 		'url':'http://www.html5interactivemaps.com',//URL of this pin
 		'target':'same_window',//'new_window' opens URL in new window//'same_window' opens URL in the same window //'none' pin is not clickable
-		'enable':true,//true/false to enable/disable this pin
+		'enable':false,//true/false to enable/disable this pin
 	},
 	{
 		'shape':'circle',
@@ -34,7 +34,7 @@
 		'downColor':'#00ffff',
 		'url':'http://www.html5interactivemaps.com',
 		'target':'same_window',
-		'enable':true,
+		'enable':false,
 	},
 	{
 		'shape':'circle',
@@ -49,7 +49,7 @@
 		'downColor':'#00ffff',
 		'url':'http://www.html5interactivemaps.com',
 		'target':'same_window',
-		'enable':true,
+		'enable':false,
 	},
 	{
 		'shape':'circle',
@@ -64,7 +64,7 @@
 		'downColor':'#00ffff',
 		'url':'http://www.html5interactivemaps.com',
 		'target':'new_window',
-		'enable':true,
+		'enable':false,
 	},
 	{
 		'shape':'circle',
@@ -79,7 +79,7 @@
 		'downColor':'#00ffff',
 		'url':'http://www.html5interactivemaps.com',
 		'target':'same_window',
-		'enable':true,
+		'enable':false,
 	},
 	{
 		'shape':'circle',
@@ -94,7 +94,7 @@
 		'downColor':'#00ffff',
 		'url':'http://www.html5interactivemaps.com',
 		'target':'same_window',
-		'enable':true,
+		'enable':false,
 	},
 	{
 		'shape':'circle',
@@ -109,7 +109,7 @@
 		'downColor':'#00ffff',
 		'url':'http://www.html5interactivemaps.com',
 		'target':'same_window',
-		'enable':true,
+		'enable':false,
 	},
 	{
 		'shape':'circle',
@@ -124,7 +124,7 @@
 		'downColor':'#00ffff',
 		'url':'http://www.html5interactivemaps.com',
 		'target':'same_window',
-		'enable':true,
+		'enable':false,
 	},
 	{
 		'shape':'circle',
@@ -139,7 +139,7 @@
 		'downColor':'#990000',
 		'url':'http://www.html5interactivemaps.com',
 		'target':'none',
-		'enable':true,
+		'enable':false,
 	},
 	]
 }
