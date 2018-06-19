@@ -6,7 +6,7 @@
 	},
 	'map_1':{
 		'hover': 'AUSTRALIAN CAPITAL TERRITORY',//region hover content
-		'enable':false,//true/false to enable/disable this region
+		'enable':true,//true/false to enable/disable this region
 		'url':'#', //Goto URL
 		'target':'same_window', //open link in new window:new_window, open in current window:same_window, or none for nothing.
 		'upColor':'#CFBFB3', //region color when page loads
