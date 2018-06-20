@@ -21,6 +21,10 @@ Link : http://techhysahil.com
   color: #757371; 
   font-size: 14px;
   line-height: 22px;
+  width: 100%;
+  background-color: #eee;
+  padding: 4px 8px;
+  display: block;
 }
 
 .select2-container--open .select2-dropdown--below,
