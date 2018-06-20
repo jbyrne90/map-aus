@@ -16,6 +16,13 @@ Select2 Override style
 Author : Techhysahil
 Link : http://techhysahil.com
 *********************************/
+
+.select2-results__group {
+  color: #757371; 
+  font-size: 14px;
+  line-height: 22px;
+}
+
 .select2-container--open .select2-dropdown--below,
 .select2-container--open .select2-dropdown--above {
   background: #FFFFFF;
