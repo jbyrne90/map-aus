@@ -220,6 +220,10 @@ Link : http://techhysahil.com
   font-weight: bold;
 }
 
+/*.select2-container--flat .select2-selection--single .select2-selection__clear {
+  font-size: 18px;
+}*/
+
 /****** Multiple SCSS *******/
 .select2-container--flat {
   border-radius: 2px;

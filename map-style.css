@@ -34,22 +34,22 @@
 }
 @media screen and (max-width: 568px) and (min-width: 481px) {
 	#map_base svg {
-		height:410px;
+		height:400px;
 	}
 }
 @media screen and (max-width: 685px) and (min-width: 569px) {
 	#map_base svg {
-		height:490px;
+		height:440px;
 	}
 }
 @media screen and (max-width: 767px) and (min-width: 686px) {
 	#map_base svg {
-		height:600px;
+		height:500px;
 	}
 }
 @media screen and (min-width: 768px) {
 	#map_base svg {
-		height:660px;
+		height:520px;
 	}
 }
 #map-tip {
