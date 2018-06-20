@@ -7,7 +7,7 @@ Select2 Override style
 /* Assign min-width to container */
 .select2-container {
   min-width: 200px;
-  font-family: Roboto, Helvetica;
+    font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 /*********************************
