@@ -217,7 +217,7 @@ Link : http://techhysahil.com
 .select2-container--flat .select2-selection--single .select2-selection__clear {
   cursor: pointer;
   float: right;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 /*.select2-container--flat .select2-selection--single .select2-selection__clear {
