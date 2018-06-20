@@ -5,9 +5,11 @@ Link to original : https://codepen.io/anon/pen/OEQxEZ Styling
 Select2 Override style
 *********************/
 /* Assign min-width to container */
-.select2-container {
-  min-width: 200px;
-    font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+.select2-container{
+  min-width:200px;
+  font-family: 'Open Sans', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
 }
 
 /*********************************
