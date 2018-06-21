@@ -44,12 +44,12 @@
 }
 @media screen and (max-width: 767px) and (min-width: 686px) {
 	#map_base svg {
-		height:500px;
+		height:460px;
 	}
 }
 @media screen and (min-width: 768px) {
 	#map_base svg {
-		height:520px;
+		height:480px;
 	}
 }
 #map-tip {
