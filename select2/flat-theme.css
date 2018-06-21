@@ -60,7 +60,7 @@ Link : http://techhysahil.com
 
 .select2-container .select2-choice {
   border: 2px solid #dce4ec;
-  height: 44px;
+  height: 40px;
   border-radius: 0px;
   font-family: "Lato", sans-serif;
   font-size: 14px;
@@ -180,11 +180,11 @@ Link : http://techhysahil.com
 .select2-container--flat .select2-selection--single {
   background: #FFFFFF;
   border: 1px solid #3E3B39;
-  height: 44px;
+  height: 40px;
 }
 .select2-container--flat .select2-selection--single .select2-selection__rendered {
   color: #3E3B39;
-  line-height: 44px;
+  line-height: 40px;
   padding-right: 14px;
 }
 .select2-container--flat .select2-selection--single .select2-selection__arrow {
