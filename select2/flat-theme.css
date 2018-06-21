@@ -220,9 +220,18 @@ Link : http://techhysahil.com
   font-weight: normal;
 }
 
-/*.select2-container--flat .select2-selection--single .select2-selection__clear {
-  font-size: 18px;
-}*/
+/* ---- Move clear input 'X' from underneath search magnifying glass ---- */
+
+.map-location-input__container .select2-container--flat {
+  padding-right: 52px;
+}
+.map-location-input__container .select2-selection--single  {
+  padding-right: 52px;
+}
+.map-location-input__container .select2-selection__rendered  {
+  padding-right: 52px;
+}
+
 
 /****** Multiple SCSS *******/
 .select2-container--flat {
