@@ -220,7 +220,7 @@ Link : http://techhysahil.com
   font-weight: normal;
 }
 
-/* ---- Move clear input 'X' from underneath search magnifying glass ---- */
+/* ---- Move clear input 'X' from underneath search magnifying glass ---- 
 
 .map-location-input__container > .select2-container--flat {
   padding-right: 52px;
@@ -231,7 +231,7 @@ Link : http://techhysahil.com
 .map-location-input__container > .select2-selection__rendered  {
   padding-right: 52px;
 }
-
+*/
 
 /****** Multiple SCSS *******/
 .select2-container--flat {
