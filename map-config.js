@@ -25,7 +25,7 @@
 	'map_3':{
 		'hover': 'NORTHERN TERRITORY',
 		'enable':true,
-		'url':'#',
+		'url':'http://indigenous-data-hub-webcoda.webflow.io/northern-territory',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
