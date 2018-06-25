@@ -7,7 +7,7 @@
 	'map_1':{
 		'hover': 'AUSTRALIAN CAPITAL TERRITORY',//region hover content
 		'enable':true,//true/false to enable/disable this region
-		'url':'#', //Goto URL
+		'url':'', //Goto URL
 		'target':'same_window', //open link in new window:new_window, open in current window:same_window, or none for nothing.
 		'upColor':'#CFBFB3', //region color when page loads
 		'overColor':'#BD4A3D', //region color when mouse hover
@@ -16,7 +16,7 @@
 	'map_2':{
 		'hover': 'NEW SOUTH WALES',
 		'enable':true,
-		'url':'#',
+		'url':'',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -35,7 +35,7 @@
 		'hover': 'QUEENSLAND',
 		'hover': 'QUEENSLAND',
 		'enable':true,
-		'url':'#',
+		'url':'',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -44,7 +44,7 @@
 	'map_5':{
 		'hover': 'SOUTH AUSTRALIA',
 		'enable':true,
-		'url':'#',
+		'url':'',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -53,7 +53,7 @@
 	'map_6':{
 		'hover': 'TASMANIA',
 		'enable':true,
-		'url':'#',
+		'url':'',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -62,7 +62,7 @@
 	'map_7':{
 		'hover': 'VICTORIA',
 		'enable':true,
-		'url':'#',
+		'url':'',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
@@ -71,7 +71,7 @@
 	'map_8':{
 		'hover': 'WESTERN AUSTRALIA',
 		'enable':true,
-		'url':'#',
+		'url':'',
 		'target':'same_window',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
