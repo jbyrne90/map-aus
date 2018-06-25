@@ -6,11 +6,11 @@
 	'points':[
 	{
 		'shape':'circle',
-		'hover': '<b>Townsville</b><br><span style="color:yellow;">*This pin is not clickable*</span>',
+		'hover': '',
 		'pos_X':219,
 		'pos_Y':168,
-		'diameter':14,
-		'outline':'#FFCECE',
+		'diameter':180,
+		'outline':'#FFF',
 		'thickness':1,
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
