@@ -26,7 +26,7 @@
 		'hover': 'NORTHERN TERRITORY',
 		'enable':true,
 		'url':'http://indigenous-data-hub-webcoda.webflow.io/northern-territory',
-		'target':'same_window',
+		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',

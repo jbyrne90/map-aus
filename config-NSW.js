@@ -8,7 +8,7 @@ var map_config = {
 		'hover': 'AUSTRALIAN CAPITAL TERRITORY',//region hover content
 		'enable':true,//true/false to enable/disable this region
 		'url':'#', //Goto URL
-		'target':'same_window', //open link in new window:new_window, open in current window:same_window, or none for nothing.
+		'target':'none', //open link in new window:new_window, open in current window:same_window, or none for nothing.
 		'upColor':'#CFBFB3', //region color when page loads
 		'overColor':'#BD4A3D', //region color when mouse hover
 		'downColor':'#A33124',//region color when mouse clicking
@@ -17,7 +17,7 @@ var map_config = {
 		'hover': 'NEW SOUTH WALES',
 		'enable':true,
 		'url':'#',
-		'target':'same_window',
+		'target':'none',
 		'upColor':'#BD4A3D',
 		'overColor':'#BD4A3D',
 		'downColor':'#BD4A3D',
@@ -26,7 +26,7 @@ var map_config = {
 		'hover': 'NORTHERN TERRITORY',
 		'enable':true,
 		'url':'#',
-		'target':'same_window',
+		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',
@@ -36,7 +36,7 @@ var map_config = {
 		'hover': 'QUEENSLAND',
 		'enable':true,
 		'url':'#',
-		'target':'same_window',
+		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',
@@ -45,7 +45,7 @@ var map_config = {
 		'hover': 'SOUTH AUSTRALIA',
 		'enable':true,
 		'url':'#',
-		'target':'same_window',
+		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',
@@ -54,7 +54,7 @@ var map_config = {
 		'hover': 'TASMANIA',
 		'enable':true,
 		'url':'#',
-		'target':'same_window',
+		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',
@@ -63,7 +63,7 @@ var map_config = {
 		'hover': 'VICTORIA',
 		'enable':true,
 		'url':'#',
-		'target':'same_window',
+		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',
@@ -72,7 +72,7 @@ var map_config = {
 		'hover': 'WESTERN AUSTRALIA',
 		'enable':true,
 		'url':'#',
-		'target':'same_window',
+		'target':'none',
 		'upColor':'#CFBFB3',
 		'overColor':'#BD4A3D',
 		'downColor':'#A33124',
